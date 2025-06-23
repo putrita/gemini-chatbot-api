@@ -49,12 +49,6 @@ h1 {
   text-align: left;
 }
 
-.typing-indicator {
-  font-style: italic;
-  color: #666; /* Warna abu-abu untuk indikator */
-  /* float: left; /* Sudah diatur oleh .message.bot */
-}
-
 form {
   display: flex;
   gap: 10px;
